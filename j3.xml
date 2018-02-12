@@ -4,10 +4,6 @@
   
   <!--LOS Repos-->
   <project name="LineageOS/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="cm-14.1" />
-  <project name="LineageOS/android_vendor_nxp-nfc_opensource_libnfc-nci" path="vendor/nxp-nfc/opensource/libnfc-nci" remote="github" revision="cm-14.1" />
-  <project name="LineageOS/android_vendor_nxp-nfc_opensource_libnfc-nci" path="vendor/nxp-nfc/opensource/libnfc-nci" remote="github" revision="cm-14.1" />
-  <project name="LineageOS/android_vendor_nxp-nfc_opensource_frameworks" path="vendor/nxp-nfc/opensource/frameworks" remote="github" revision="cm-14.1" />
-  <project name="LineageOS/android_vendor_nxp-nfc_opensource_Nfc" path="vendor/nxp-nfc/opensource/Nfc" remote="github" revision="cm-14.1" />
   <project name="omnirom/android_bootable_recovery" path="bootable/recovery-twrp" remote="github" revision="android-7.1" />
 	
   <!--Blobs-->
